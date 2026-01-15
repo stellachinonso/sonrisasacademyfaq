@@ -109,13 +109,11 @@ Currently the fee for our annual tech class is four hundred thousand naira only.
 ---
 ### **17. How can I contact you?**
 
-📞 Click to chat on WhatsApp: [Chat with Sonrisas Academy](https://wa.me/2349112572118)
+📞 Click to chat on WhatsApp:[+234 911 257 2118](https://wa.me/2349112572118)  
 
-sonrisasacademy.org
-https://forms.gle/96p7o2HL42baT4MH8
-
-
-
+ sonrisasacademy.org  
+ 
+📝 **Registration Form:** [Click here to register](https://forms.gle/96p7o2HL42baT4MH8)
 
 ---
 
