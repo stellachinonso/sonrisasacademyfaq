@@ -1,5 +1,4 @@
-# Frequently Asked Questions (faq) for Sonrisas Academy
-#Absolutely, Stella. Here’s a **clear, parent-friendly FAQ** you can use on your website, flyers, or WhatsApp for **Sonrisas Academy**.
+#  Sonrisas Academy - Frequently Asked Questions (FAQ)
 
 ---
 
@@ -7,13 +6,13 @@
 
 ### **1. What is Sonrisas Academy?**
 
-Sonrisas Academy is an innovative tech and life-skills academy that empowers children and teens with **coding, creativity, problem-solving, resilience, and critical thinking**—preparing them for the future workforce.
+Sonrisas Academy is an innovative tech and life-skills academy that empowers children and teens with **coding, creativity, problem-solving, resilience, and critical thinking** preparing them for the future workforce.
 
 ---
 
 ### **2. Who can enroll?**
 
-We serve **kids and teens aged 7–18 years**, grouped by age and learning level to ensure effective teaching.
+We serve **kids and teens aged 6–19 years**, grouped by age and learning level to ensure effective teaching.
 
 ---
 
@@ -30,9 +29,11 @@ We offer a range of future-focused tech courses including:
 * Software Development
 * Product Design (UI/UX)
 * Animation
-* Web Design
-* Digital Creativity
-* And more
+* Data Analysis
+* Basic Digital Literacy
+* Scratch
+* Robotics
+* Graphics Design
 
 ---
 
@@ -44,7 +45,7 @@ We run both **physical and online classes** using interactive tools, live instru
 
 ### **6. Will my child be able to build real projects?**
 
-Yes! Students work on **real-life projects** such as websites, animations, apps, and digital designs—so they learn by doing.
+Yes! Students work on **real-life projects** such as websites, animations, apps, and digital designs so they learn by doing.
 
 ---
 
@@ -80,7 +81,7 @@ Yes. We have **local and international partner organizations** where students wh
 
 ### **12. How long is each program?**
 
-Program duration varies by course, but most run between **4–12 weeks**, with weekly classes.
+Program duration varies by course.
 
 ---
 
@@ -105,8 +106,17 @@ Yes. We offer **family discounts, early-bird offers, and special promotions** fr
 You can register through our **Google Form** or by contacting us on WhatsApp. Our team will guide you through the onboarding process.
 
 ---
+### **16. What is the fee?**
 
-If you’d like, I can also create:
+Currently the fee for our annual tech class is four hundred thousand naira only. There are also other vacation and short courses we offer our team will give you more information.
 
-* A **shorter WhatsApp FAQ version**
-* Or a **website-ready FAQ format**
+---
+### **17. How can I contact you?**
+
+https://wa.me/2349112572118
+sonrisasacademy.org
+https://forms.gle/96p7o2HL42baT4MH8
+
+---
+
+Thank you!
