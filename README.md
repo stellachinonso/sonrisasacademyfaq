@@ -22,6 +22,7 @@ No. Our programs are designed for **beginners to advanced learners**. We start f
 
 We offer a range of future-focused tech courses including:
 
+* Coding
 * Software Development
 * Product Design (UI/UX)
 * Animation
@@ -30,6 +31,9 @@ We offer a range of future-focused tech courses including:
 * Scratch
 * Robotics
 * Graphics Design
+* Artificial Intelligence and Machine Learning
+* Artificial Intelligence Tools
+* Cyber Security
 
 ---
 
@@ -77,7 +81,9 @@ Yes. We have **local and international partner organizations** where students wh
 
 ### **12. How long is each program?**
 
-Program duration varies by course.
+Holiday classes holds three times a week for two hours each day.
+Annual classes holds every Saturday for two hours.
+Other classes depends on the terms of service.
 
 ---
 
@@ -104,7 +110,10 @@ You can register through our **Google Form** or by contacting us on WhatsApp. Ou
 ---
 ### **16. What is the fee?**
 
-Currently the fee for our annual tech class is four hundred thousand naira only. There are also other vacation and short courses we offer our team will give you more information.
+The fee for Easter and Summer Holidays are as follows:
+6years to 9year - ₦79,990
+10years to 17years - ₦49,990
+18years and depends on the terms of service.
 
 ---
 ### **17. How can I contact you?**
