@@ -114,6 +114,12 @@ The fee for Easter and Summer Holidays are as follows:
 6years to 9year - ₦79,990
 10years to 17years - ₦49,990
 18years and depends on the terms of service.
+Secure slots:
+Bank: Guaranty Trust Bank
+Account Number: 0940004547 
+Account Name:  Sonrisas Academy
+or use or dedicated selar link:
+
 
 ---
 ### **17. How can I contact you?**
