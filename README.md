@@ -111,8 +111,8 @@ You can register through our **Google Form** or by contacting us on WhatsApp. Ou
 ### **16. What is the fee?**
 
 The fee for Easter and Summer Holidays are as follows:
-6years to 9year - ₦79,990
-10years to 17years - ₦49,990
+6years to 9year - $70
+10years to 17years - $50
 18years and depends on the terms of service.
 Secure slots:
 Bank: Guaranty Trust Bank
